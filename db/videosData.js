@@ -16,7 +16,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=8hly31xKli0",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -30,7 +30,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=92S4zgXN17o",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -45,7 +45,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=z9bZufPHFLU",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -59,7 +59,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=F8xQ5joLlD0",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -76,7 +76,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=_Gpe1Zn-1fE",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -90,7 +90,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=_I94-tJlovg",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -105,7 +105,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=S_0q75eD8Yc",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -119,7 +119,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=scEDHsr3APg",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -137,7 +137,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=usYySG1nbfI",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -151,7 +151,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=dH0yz-Osy54",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -166,7 +166,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=dn9cSRImmVA",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -181,7 +181,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -196,7 +196,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=a9__D53WsUs",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -213,7 +213,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=KUJsaM-hAjs",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -228,7 +228,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=4UZrsTqkcW4",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -242,7 +242,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=RGKi6LSPDLU",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -256,7 +256,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=-cMqr9HpZ-Y",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -270,7 +270,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=15YB__vYpuA",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -284,7 +284,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=hQAHSlTtcmY",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -298,7 +298,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=-MlNBTSg_Ww",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -312,7 +312,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=6ThXsUwLWvc",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -330,7 +330,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=pN6jk0uUrD8",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -344,7 +344,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=PkZNo7MFNFg",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -358,7 +358,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=papg2tsoFzg",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -372,7 +372,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=3PHXvlpOkf4",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -386,7 +386,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=y17RuWkWdn8",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -404,7 +404,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=oBt53YbR9Kk",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -418,7 +418,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=0JUN9aDxVmI",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -433,7 +433,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=dTUw2NPZeCc",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -451,7 +451,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=PPLop4L2eGk",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -465,7 +465,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=_PwhiWxHK8o",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -482,7 +482,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=ua-CiDNNj30",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -497,7 +497,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=-ETQ97mXXF0",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -512,7 +512,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=JwSS70SZdyM",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -530,7 +530,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=coQ5dg8wM2o",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -544,7 +544,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=QphJEO9ZX6s",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -561,7 +561,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=LsNW4FPHuZE",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -575,7 +575,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=yo40OaolRs8",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -589,7 +589,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=gB1F9G0JXOo",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -606,7 +606,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=xpDnVSmNFX0",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -621,7 +621,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=FSR1s2b-l_I",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
     {
@@ -636,7 +636,7 @@ function generateVideosData() {
       link: "https://www.youtube.com/watch?v=HvSsGjxy7so",
       liked: false,
       disliked: false,
-      views: faker.datatype.number(999),
+      views: 0,
       monthsAgo: faker.datatype.number(12),
     },
   ];
@@ -670,4 +670,4 @@ function generateAllCategoriesVideos() {
 
 const allVideosData = generateAllCategoriesVideos();
 
-module.exports = {allVideosData, categorywiseVideoData};
+module.exports = { allVideosData, categorywiseVideoData };

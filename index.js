@@ -23,7 +23,7 @@ const videosRouter = require("./router/videos.router");
 const categoryRouter = require("./router/category-videos.router")
 
 app.get('/', (req, res) => {
-  res.sendFile(path.join(__dirname+'/docsPage.html'))
+  res.sendFile(path.join(__dirname + '/docsPage.html'))
 });
 
 app.use("/videos", videosRouter)

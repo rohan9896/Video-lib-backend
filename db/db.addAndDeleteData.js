@@ -1,9 +1,9 @@
 const mongoose = require("mongoose");
-const {allVideosData, categorywiseVideoData} = require("./videosData");
+const { allVideosData, categorywiseVideoData } = require("./videosData");
 const Video = require("../models/video-model");
 
 const addAllVideosData = async () => {
-  for(let video of allVideosData) {
+  for (let video of allVideosData) {
     let newVideo = new Video(video);
     await newVideo.save();
   }
@@ -14,9 +14,9 @@ const deleteAllVideosData = async () => {
   try {
     await Video.deleteMany({})
     console.log("deleted all videos succesfully");
-  } catch(err) {
+  } catch (err) {
     console.error(err);
   }
 }
 
-module.exports = {addAllVideosData, deleteAllVideosData};
+module.exports = { addAllVideosData, deleteAllVideosData };

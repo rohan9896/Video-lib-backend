@@ -7,9 +7,9 @@ router.route("/:category")
     try {
       const categoryVideos = await Video.find({ category: req.params.category })
       res.json({ success: true, categoryArr: categoryVideos })
-    } catch(err) {
+    } catch (err) {
       console.error(err);
-      res.status(500).json({success: false, message: "Something went wrong"})
+      res.status(500).json({ success: false, message: "Something went wrong" })
     }
   })
 
